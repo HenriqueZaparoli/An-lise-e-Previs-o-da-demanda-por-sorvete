@@ -1,4 +1,4 @@
-# AnalisePrevisao-demandaSorvete
+# Previsão_Demanda_Sorvete
 
 📊 Projeto de Análise de Demanda com Regressão Linear
 📌 Sobre o Projeto
