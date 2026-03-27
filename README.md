@@ -7,9 +7,7 @@ Este projeto tem como objetivo analisar o comportamento da demanda de um produto
 
 A análise foi dividida em três etapas principais:
 
-Limpeza de dados
-Análise exploratória (EDA)
-Modelagem com regressão linear
+Limpeza de dadosAnálise exploratória (EDA)Modelagem com regressão linear
 🧹 1. Limpeza de Dados
 
 Nesta etapa, os dados foram tratados para garantir qualidade e consistência:
